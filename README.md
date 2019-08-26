@@ -1,8 +1,12 @@
 # Machine-learning exercises
 - Linear regression <br>
-Auto MPG Data Set <br>
+Auto MPG Data Set (mpg-auto.data) <br>
 https://archive.ics.uci.edu/ml/datasets/auto+mpg
 
 - Logistic regression <br>
-The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. <br>
+The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution (banking.csv) <br>
 Link: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+
+- Decision tree classifier <br>
+Use Titanic data (titanic_train_data.csv) <br>
+Link: https://www.kaggle.com/c/titanic
