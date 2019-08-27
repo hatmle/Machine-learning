@@ -13,3 +13,6 @@ Link: https://www.kaggle.com/c/titanic
 
 - Random forest classifier <br>
 Use Iris dataset (in sklearn library)
+
+- SVM classifiers <br>
+Use Iris dataset (in sklearn library)
