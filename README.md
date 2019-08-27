@@ -10,3 +10,6 @@ Link: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 - Decision tree classifier <br>
 Use Titanic data (titanic_train_data.csv) <br>
 Link: https://www.kaggle.com/c/titanic
+
+- Random forest classifier <br>
+Use Iris dataset (in sklearn library)
