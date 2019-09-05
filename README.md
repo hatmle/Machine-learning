@@ -16,3 +16,7 @@ Use Iris dataset (in sklearn library)
 
 - SVM classifiers <br>
 Use Iris dataset (in sklearn library)
+
+- Naive Bayes classifier <br>
+MultinomialNB, BernoulliNB method in sklearn <br>
+Use Ling spam data
