@@ -20,3 +20,6 @@ Use Iris dataset (in sklearn library)
 - Naive Bayes classifier <br>
 MultinomialNB, BernoulliNB method in sklearn <br>
 Use Ling spam data
+
+- Regression plot <br>
+Use regression function in statsmodel <br>
